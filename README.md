@@ -3,7 +3,7 @@
 This is a simple front-end **Amazon Clone** created using **HTML**, **CSS**, and **Font Awesome** icons. It replicates the basic structure and layout of the Amazon homepage, including navigation, search bar, product boxes, and footer.
 
 
-##  Features
+##  Feature
   - Logo
   - Location selector
   - Search bar
